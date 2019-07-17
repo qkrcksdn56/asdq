@@ -1,0 +1,131 @@
+\t (00:00:44) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:44)     Journal start - Wed Jul 17 11:00:40 2019
+\t (00:00:44)         Host=USER-PC User=user Pid=4256 CPUs=4
+\t (00:00:44) CmdLine= allegro.exe -p .
+\t (00:00:44) 
+\t (00:00:44) Starting new design...
+\i (00:00:44) trapsize 1442
+\i (00:00:44) trapsize 1415
+\i (00:00:44) trapsize 1442
+\i (00:00:44) trapsize 1757
+\i (00:00:44) trapsize 2685
+\i (00:00:44) trapsize 2685
+\i (00:00:44) package symbol wizard 
+\i (00:00:45) generaledit 
+   (00:00:56) Loading cmds.cxt 
+   (00:00:56) Loading axlcore.cxt 
+\i (00:00:56) setwindow form.sym_wizard
+\i (00:00:56) FORM sym_wizard plcc YES 
+\i (00:00:59) FORM sym_wizard wiz_next  
+\i (00:01:02) FORM sym_wizard load_template  
+\t (00:01:02) Opening existing design...
+\i (00:01:03) fillin yes 
+\t (00:01:03) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:01:03) setwindow pcb
+\i (00:01:03) trapsize 211
+\d (00:01:03) Design opened: C:/Users/user/Downloads/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:01:04) setwindow form.sym_wizard
+\i (00:01:04) FORM sym_wizard wiz_next  
+\i (00:01:08) FORM sym_wizard pack_units Millimeter 
+\i (00:01:10) FORM sym_wizard pack_units_create Millimeter 
+\i (00:01:10) FORM sym_wizard wiz_next  
+\i (00:02:56) FORM sym_wizard qfp_pin_count_v 16 
+\i (00:02:58) FORM sym_wizard qfp_pin_count_h 16 
+\i (00:02:58) FORM sym_wizard qfp_pin1_corner YES 
+\i (00:02:59) FORM sym_wizard wiz_next  
+\i (00:03:24) FORM sym_wizard qfp_e1 16.000 
+\i (00:03:31) FORM sym_wizard qfp_e2 16.000 
+\i (00:03:36) FORM sym_wizard qfp_width 14.000 
+\i (00:03:44) FORM sym_wizard qfp_len 14.000 
+\i (00:03:48) FORM sym_wizard wiz_next  
+\i (00:03:52) FORM sym_wizard default_pad_browse  
+\i (00:05:42) fillin "Pad45cir22d"
+\i (00:05:43) FORM sym_wizard wiz_next  
+\i (00:05:44) FORM sym_wizard wiz_next  
+\i (00:05:45) FORM sym_wizard wiz_finish  
+\w (00:05:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:45) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:05:45) setwindow pcb
+\i (00:05:45) trapsize 5371
+\t (00:05:45) Performing DRC...
+\t (00:05:45) No DRC errors detected.
+\w (00:05:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:45) trapsize 5371
+\i (00:05:45) trapsize 758
+\i (00:05:45) trapsize 202
+\i (00:05:45) trapsize 202
+\t (00:05:45) Creating package symbol 'C:/Users/user/Desktop/workspace/ex7-17/my2560.psm'.
+\t (00:05:45) Starting Create symbol...
+\i (00:05:46) generaledit 
+\i (00:05:54) replace padstack 
+\i (00:05:55) setwindow form.mini
+\i (00:05:55) FORM mini oldname_browse  
+\i (00:05:56) fillin "Pad45cir22d"
+\i (00:05:57) FORM mini newname_browse  
+\i (00:06:33) fillin "Smd50_25"
+\w (00:06:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:35) FORM mini replace  
+\i (00:42:31) setwindow pcb
+\i (00:42:31) zoom in 1 
+\i (00:42:31) setwindow pcb
+\i (00:42:31) zoom in 7.216 3.855
+\i (00:42:31) trapsize 101
+\i (00:42:32) zoom in 1 
+\i (00:42:32) setwindow pcb
+\i (00:42:32) zoom in 7.216 3.855
+\i (00:42:32) trapsize 51
+\i (00:42:34) zoom out 1 
+\i (00:42:34) setwindow pcb
+\i (00:42:34) zoom out 7.247 3.906
+\i (00:42:34) trapsize 101
+\i (00:42:35) zoom out 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom out 7.247 3.906
+\i (00:42:35) trapsize 202
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 6.690 1.157
+\i (00:42:35) trapsize 101
+\i (00:42:35) zoom in 1 
+\i (00:42:35) setwindow pcb
+\i (00:42:35) zoom in 6.630 0.773
+\i (00:42:35) trapsize 51
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 6.711 0.764
+\i (00:42:36) trapsize 101
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 6.710 0.763
+\i (00:42:36) trapsize 202
+\i (00:42:36) zoom out 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom out 6.933 0.763
+\i (00:42:36) trapsize 369
+\i (00:42:36) zoom in 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom in -5.966 -2.426
+\i (00:42:36) trapsize 185
+\i (00:42:36) zoom in 1 
+\i (00:42:36) setwindow pcb
+\i (00:42:36) zoom in -17.046 -2.426
+\i (00:42:36) trapsize 92
+\i (00:42:38) zoom out 1 
+\i (00:42:38) setwindow pcb
+\i (00:42:38) zoom out -5.743 -1.908
+\i (00:42:38) trapsize 185
+\i (00:42:39) zoom in 1 
+\i (00:42:39) setwindow pcb
+\i (00:42:39) zoom in 2.086 -1.835
+\i (00:42:39) trapsize 92
+\i (00:42:41) zoom out 1 
+\i (00:42:41) setwindow pcb
+\i (00:42:41) zoom out 2.087 -1.834
+\i (00:42:41) trapsize 185
+\i (00:48:25) exit 
+\t (00:48:25) Performing DRC...
+\t (00:48:25) No DRC errors detected.
+\e (00:48:25) Do you want to save the changes you made to C:/Users/user/Desktop/workspace/ex7-17/my2560.dra?
+\i (00:48:26) fillin yes 
+\t (00:48:27) Symbol 'my2560.psm' created.
+\t (00:48:27)     Journal end - Wed Jul 17 11:48:23 2019
